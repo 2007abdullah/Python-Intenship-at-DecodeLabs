@@ -22,6 +22,8 @@ def view_tasks():
         print(f"{index}. {task}")
 
 
+
+
 def main():
     while True:
         print("\n" + "=" * 50)
