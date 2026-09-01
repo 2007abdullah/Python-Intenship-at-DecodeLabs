@@ -9,6 +9,8 @@ def add_task():
         print("✅ Task added successfully!")
     else:
         print("❌ Task cannot be empty.")
+        
+
 
 
 def view_tasks():
