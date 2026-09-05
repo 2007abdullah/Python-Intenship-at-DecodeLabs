@@ -28,3 +28,17 @@ Project 1/
 ├── todo.py
 ├── gui_todo.py
 └── README.md
+▶️ Run the Project
+CLI Version
+python todo.py
+GUI Version
+python gui_todo.py
+🎯 Learning Outcome
+
+This project helped me practice Python fundamentals, functions, lists, input validation, GUI development, and event handling with Tkinter.
+
+👨‍💻 Author
+
+Abdullah Hayat
+
+Developed as part of my Python Internship at DecodeLabs.
