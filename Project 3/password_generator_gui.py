@@ -1,33 +1,3 @@
-"""
-=============================================================
-VAULTKEY - Random Password Generator
-DecodeLabs Python Programming Internship
-Project 3
-=============================================================
-
-Author: Abdullah Hayat
-Technology: Python + Tkinter
-
-Features:
-    • Modern black aesthetic
-    • Random password generation
-    • Uppercase / lowercase letters
-    • Numbers
-    • Special characters
-    • Password strength indicator
-    • Show / hide password
-    • Copy to clipboard
-    • Generate / regenerate password
-    • Clear password
-    • Input validation
-    • Laptop-friendly responsive layout
-
-Required Modules:
-    random
-    string
-    tkinter
-=============================================================
-"""
 
 import random
 import string
